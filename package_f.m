@@ -6,4 +6,4 @@
 
 :- implementation.
 
-:- package_f = "package_f".
+package_f = "package_f".
